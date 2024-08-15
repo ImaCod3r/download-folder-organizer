@@ -1,17 +1,6 @@
 # Script para organização de diretórios
 Programa escrito em **python** com propósito de organizar diretorios cheios de arquivos de diferentes naturezas, mas específicamente a pasta de Downloads que geralmente está uma confusão.
 
-## ⚒️ Requisitos
-Para rodar este script você instalar essas duas ferramentas na sua máquina.
-
-- [Python]("https://www.python.com/Downloads")
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="60">
-
-- [Git]("https://git-scm.com/downloads")
-
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="60">
-
 ## ⚙️ Rodar localmente
 Primeiramente você precisa ter o python instalado na sua máquina. Pode fazé-lo acessando o link [aqui](https://www.python.org/downloads).
 
